@@ -10,7 +10,7 @@ using namespace std;
 void main()
 {
 	setlocale (LC_ALL, "RUS");
-	cout << "Hello World - ýòî ñêó÷íî,ïîýòîìó ñëàâà Åíîòàì!" << endl;
+	cout << "Hello World - ÑÑ‚Ð¾ ÑÐºÑƒÑ‡Ð½Ð¾,Ð¿Ð¾ÑÑ‚Ð¾Ð¼Ñƒ ÑÐ»Ð°Ð²Ð° Ð•Ð½Ð¾Ñ‚Ð°Ð¼!" << endl;
 	system ("pause");
 }
 
